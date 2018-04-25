@@ -237,3 +237,4 @@ These are all implemented outside of our `createStore method`. What is generic t
 This is implemented inside the `createStore` method.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-create-store'>Redux Create Store</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Refactoring Our Code Into A Library</p>
